@@ -29,3 +29,10 @@ JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/stat
 1527058597937	Marionette	INFO	Listening on port 33389
 1527058597985	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527081820195	geckodriver	INFO	geckodriver 0.20.1
+1527081820201	geckodriver	INFO	Listening on 127.0.0.1:55963
+1527081821212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m6FqAcf7fBWu"
+1527081821846	Marionette	INFO	Enabled via --marionette
+1527081823172	Marionette	INFO	Listening on port 43887
+1527081823226	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
